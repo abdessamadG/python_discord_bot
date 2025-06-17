@@ -43,6 +43,8 @@ python discord_bot.py
 !hello: Greets the user.
 !ask <question>: Sends your question to OpenAI and replies with the answer.
 ```
+## Future Plans
+- Open Source AI Support: Replace or augment OpenAI with open-source models like LLaMA, Mistral, or GPT-J to make the bot more self-hostable and privacy-friendly.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
