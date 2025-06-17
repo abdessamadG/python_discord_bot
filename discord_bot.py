@@ -21,7 +21,7 @@ async def on_ready():
 
 @client.command()
 async def hello(ctx):
-    await ctx.send(f"Hello {ctx.author.mention}! 👋")
+    await ctx.send(f"{ctx.author.mention}, hope you're having a wonderful day! 🌟")
     
 @client.command()
 async def ask(ctx, *, question):
